@@ -18,7 +18,7 @@ namespace DemoApp1.Controllers
         // GET api/values/5
         public string Get(int id)
         {
-            return "feature A change";
+            return "feature B Change";
         }
 
         // POST api/values
